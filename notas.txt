@@ -1,0 +1,1 @@
+LOs motores girna como maximo a 266.6 (motor:2000rpm, caja reductora: 7.5:1)
